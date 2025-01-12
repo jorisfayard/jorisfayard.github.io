@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Shuhari</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome on Shuhari</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Joris Fayard.</copyright>
+    <lastBuildDate>Sun, 12 Jan 2025 23:23:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shuhari</title>
+      <link>http://localhost:1313/shuhari/</link>
+      <pubDate>Sun, 12 Jan 2025 23:23:53 +0000</pubDate>
+      <guid>http://localhost:1313/shuhari/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Shuhari (守破離)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Shuhari is a concept that describes the stages of learning to mastery in Japanese martial arts. It is sometimes applied to other disciplines, such as Go, tea ceremony, and even business practices.&lt;/p&gt;&#xA;&lt;p&gt;Shuhari roughly translates to &amp;ldquo;to keep, to fall, to break away&amp;rdquo; or &amp;ldquo;follow the rules, break the rules, transcend the rules&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a breakdown of the three stages:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Shu (守 - protect, obey)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In this initial stage, the student diligently follows the rules and teachings of their master or tradition.&lt;/li&gt;&#xA;&lt;li&gt;They focus on mastering the fundamentals, techniques, and forms without deviation.&lt;/li&gt;&#xA;&lt;li&gt;It&amp;rsquo;s a period of repetition, discipline, and adherence to established wisdom.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;2. Ha (破 - detach, digress)&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
