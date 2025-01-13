@@ -1,7 +1,7 @@
 
-baseURL = "https://shuhari.com"
+baseURL = "https://jorisfayard.github.io/"
 theme = 'hugo-bearblog'
-title = "Shuhari"
+title = "Shuhari • 守破離"
 author = "Joris Fayard"
 copyright = "Copyright © 2025, Joris Fayard."
 languageCode = "en-US"
